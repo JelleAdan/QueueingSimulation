@@ -1,4 +1,4 @@
-﻿namespace Queuing_Simulation_2.Objects
+﻿namespace Queuing_Simulation.Objects
 {
     public class Server
     {

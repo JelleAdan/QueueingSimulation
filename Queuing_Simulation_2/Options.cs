@@ -1,7 +1,7 @@
 ﻿using CommandLine;
 using CommandLine.Text;
 
-namespace Queuing_Simulation_2
+namespace Queuing_Simulation
 {
     public class Options
     {

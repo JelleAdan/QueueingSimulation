@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Queuing_Simulation_2.Distributions
+namespace Queuing_Simulation.Distributions
 {
     public static class MyRandom
     {

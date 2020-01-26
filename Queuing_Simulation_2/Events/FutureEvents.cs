@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Queuing_Simulation_2.Events
+namespace Queuing_Simulation.Events
 {
     public class FutureEvents
     {

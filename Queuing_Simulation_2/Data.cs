@@ -1,4 +1,4 @@
-﻿namespace Queuing_Simulation_2
+﻿namespace Queuing_Simulation
 {
     public class ServerParameters
     {

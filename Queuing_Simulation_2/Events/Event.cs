@@ -1,6 +1,6 @@
-﻿using Queuing_Simulation_2.Objects;
+﻿using Queuing_Simulation.Objects;
 
-namespace Queuing_Simulation_2.Events
+namespace Queuing_Simulation.Events
 {
     public class Event
     {

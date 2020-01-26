@@ -1,12 +1,12 @@
-﻿using Queuing_Simulation_2.Distributions;
-using Queuing_Simulation_2.Events;
-using Queuing_Simulation_2.Objects;
+﻿using Queuing_Simulation.Distributions;
+using Queuing_Simulation.Events;
+using Queuing_Simulation.Objects;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace Queuing_Simulation_2
+namespace Queuing_Simulation
 {
     public class Results
     {
