@@ -1,2 +1,2 @@
 # QueueingSimulation
-A simulation framework for simple queueing systems
+A simulation framework for simple queueing systems.
